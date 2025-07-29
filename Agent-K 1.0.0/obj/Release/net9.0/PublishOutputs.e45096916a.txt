@@ -1,0 +1,5 @@
+D:\Backup-USB-F\Agent K\Agent-K 1.0.0\bin\Release\net9.0\publish\Agent-K 1.0.0.exe
+D:\Backup-USB-F\Agent K\Agent-K 1.0.0\bin\Release\net9.0\publish\Agent-K 1.0.0.dll
+D:\Backup-USB-F\Agent K\Agent-K 1.0.0\bin\Release\net9.0\publish\Agent-K 1.0.0.deps.json
+D:\Backup-USB-F\Agent K\Agent-K 1.0.0\bin\Release\net9.0\publish\Agent-K 1.0.0.runtimeconfig.json
+D:\Backup-USB-F\Agent K\Agent-K 1.0.0\bin\Release\net9.0\publish\Agent-K 1.0.0.pdb
